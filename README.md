@@ -9,6 +9,6 @@ Network for Multimodal Depression Detection**<br>
 ### Installations
 - [Install PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 - [Install SBERT](https://www.sbert.net/)
-## Data Preprocessing
+### Data Preprocessing
         
-## Training and Evaluation 
+### Training and Evaluation 
