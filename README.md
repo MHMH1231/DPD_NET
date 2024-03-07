@@ -2,8 +2,7 @@
 Pytorch implementation of the following paper:
 > **DPD (DePression Detection) Net: A Deep Neural
 Network for Multimodal Depression Detection**<br>
-> **Authors:** ...<br>
->
+
 > **Abstract:** *...*
 >
 > ---
